@@ -1,6 +1,5 @@
 # server
-
-  basic server with Node.js
+Basic server with Node.js
 
 ```js
 const http = require('http')
