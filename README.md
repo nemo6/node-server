@@ -1,4 +1,4 @@
-# server
+# Node.js Web Server
 Basic server with Node.js
 
 ```js
